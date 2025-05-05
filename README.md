@@ -3,16 +3,18 @@
 🚀 **Desarrollador Frontend | Stack MERN**  
 📍 Madrid | 26 años
 
-# Sobre mí
+"Abierto a colaboraciones interesantes y oportunidades como Desarrollador Frontend"
 
-[🌟 **Pasión por el diseño web**]  
-*"Desarrollador apasionado por crear aplicaciones web eficientes y con diseños intuitivos. Mi enfoque combina soluciones técnicas robustas con una excelente experiencia de usuario."*
+# 🙍‍♂️ Sobre mí
 
-[💡 **Mi enfoque**]  
+💡 **Mi enfoque**
 *"Creo en el código limpio, la documentación detallada y el aprendizaje continuo. Disfruto trabajando tanto en frontend como en backend para crear productos completos."*
 
-[🎯 **Mis objetivos profesionales**]  
+🎯 **Mis objetivos profesionales**
 *"Actualmente enfocado en dominar arquitecturas escalables y mejorar mis habilidades en diseño de sistemas."*
+
+🌟 **Pasión por el diseño web**
+*"Desarrollador apasionado por crear aplicaciones web eficientes y con diseños intuitivos. Mi enfoque combina soluciones técnicas robustas con una excelente experiencia de usuario."*
 
 
 # 🔧 Tecnologías y Herramientas
@@ -38,8 +40,8 @@
 | **[Restaurante con login](https://github.com/Jorge-coder02/restaurante)** | Web restaurante con autenticación | MERN Stack | [🔗 Visitar](https://restauranteesp.netlify.app/) |
 | **[URL Shortener](https://github.com/Jorge-coder02/short-url-backend)** | Acortador de URLs personalizado | MERN Stack | [🔗 Visitar](https://short-url-frontend-khaki.vercel.app/) |
 | **[Cartelera de películas](https://github.com/Jorge-coder02/devflix-frontend)** | Plataforma estilo Netflix | MERN Stack | [🔗 Visitar](https://devflixcinema.netlify.app/) |
+
 ## 📊 Estadísticas
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=Jorge-coder02&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-coder02&layout=compact&theme=radical&hide_border=true)
 
 
