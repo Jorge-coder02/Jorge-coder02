@@ -3,7 +3,7 @@
 🚀 **Desarrollador Frontend | Stack MERN**  
 📍 Madrid | 26 años
 
-"Abierto a colaboraciones interesantes y oportunidades como Desarrollador Frontend"
+"Abierto a colaboraciones interesantes y oportunidades como Desarrollador de Frontend"
 
 # 🙍‍♂️ Sobre mí
 
