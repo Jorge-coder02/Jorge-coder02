@@ -39,7 +39,7 @@
 | **[Tienda de ropa](https://github.com/Jorge-coder02/tienda-ropa-frontend)** | Tienda de ropa | MERN Stack + Redux Toolkit| [🔗 Visitar](https://urbanwearx.netlify.app/) |
 | **[PDF Summarizer](https://github.com/Jorge-coder02/pdf-summarizer-front)** | Resumen de PDFs | MERN Stack | [🔗 Visitar](https://pdfsummarizer.up.railway.app/) |
 | **[Diseño Fintech](https://github.com/Jorge-coder02/fintech)** | Diseño web moderno para fintech | React, Tailwind | [🔗 Visitar](https://growbit.netlify.app/) |
-| **[Restaurante con login](https://github.com/Jorge-coder02/restaurante)** | Web restaurante con autenticación | MERN Stack | [🔗 Visitar](https://restauranteesp.netlify.app/) |
+| **[Restaurante con login](https://github.com/Jorge-coder02/restaurante)** | Web restaurante con reservas | MERN Stack | [🔗 Visitar](https://restauranteesp.netlify.app/) |
 | **[URL Shortener](https://github.com/Jorge-coder02/short-url-backend)** | Acortador de URLs personalizado | MERN Stack | [🔗 Visitar](https://short-url-frontend-khaki.vercel.app/) |
 | **[Cartelera de películas](https://github.com/Jorge-coder02/devflix-frontend)** | Plataforma estilo Netflix | MERN Stack | [🔗 Visitar](https://devflixcinema.netlify.app/) |
 
