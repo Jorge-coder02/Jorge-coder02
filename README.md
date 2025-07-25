@@ -38,6 +38,7 @@
 | **[Portfolio](https://github.com/Jorge-coder02/portfolio)** | Mi sitio personal profesional | Astro, React, Tailwind | [🔗 Visitar](https://jorgepersonal.netlify.app/) |
 | **[Tienda de ropa](https://github.com/Jorge-coder02/tienda-ropa-frontend)** | Tienda de ropa con backoffice | MERN Stack + Redux Toolkit| [🔗 Visitar](https://urbanwearx.netlify.app/) |
 | **[PDF Summarizer](https://github.com/Jorge-coder02/pdf-summarizer-front)** | Resumen de PDFs | MERN Stack | [🔗 Visitar](https://pdfsummarizer.up.railway.app/) |
+| **[Tu Catálogo](https://github.com/Jorge-coder02/tu-catalogo-frontend)** | Hub de pelis y series | MERN Stack | [🔗 Visitar](https://tucatalogohub.upp.railway.app/) |
 | **[Diseño Fintech](https://github.com/Jorge-coder02/fintech)** | Diseño web moderno para fintech | React, Tailwind | [🔗 Visitar](https://growbit.netlify.app/) |
 | **[Restaurante con login](https://github.com/Jorge-coder02/restaurante)** | Web restaurante con reservas | MERN Stack | [🔗 Visitar](https://restauranteesp.netlify.app/) |
 | **[URL Shortener](https://github.com/Jorge-coder02/short-url-backend)** | Acortador de URLs personalizado | MERN Stack | [🔗 Visitar](https://short-url-frontend-khaki.vercel.app/) |
